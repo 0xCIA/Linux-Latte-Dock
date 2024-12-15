@@ -1,1 +1,4 @@
-# Linux-Latte-Dock
+
+# Linux && Latte-Dock
+
+Config for Latte-Dock
